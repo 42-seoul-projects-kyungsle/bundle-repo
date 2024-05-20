@@ -1,3 +1,18 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/42-seoul-projects-kyungsle/libft.git
+[submodule "get-next-line"]
+	path = get-next-line
+	url = https://github.com/42-seoul-projects-kyungsle/get-next-line.git
+[submodule "push-swap"]
+	path = push-swap
+	url = https://github.com/42-seoul-projects-kyungsle/push-swap.git
+[submodule "so-long"]
+	path = so-long
+	url = https://github.com/42-seoul-projects-kyungsle/so-long.git
+[submodule "make-printf"]
+	path = make-printf
+	url = https://github.com/42-seoul-projects-kyungsle/make-printf.git
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/42-seoul-projects-kyungsle/minitalk.git
